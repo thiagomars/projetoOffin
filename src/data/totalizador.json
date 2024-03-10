@@ -1,0 +1,17 @@
+[
+    {
+        "label": "Total Produzido (und.)",
+        "valor": 12350,
+        "unidade": "inteiro"
+    },
+    {
+        "label": "Valor Produzido (R$)",
+        "valor": 145000.00,
+        "unidade": "monetario"
+    },
+    {
+        "label": "Eficiência Operacional (%)",
+        "valor": 85,
+        "unidade": "percent"
+    }
+]

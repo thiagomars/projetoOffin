@@ -1,0 +1,958 @@
+{
+    "dados": [
+        {
+            "titulo": "Solda",
+            "graficos": {
+                "titulo": "Produção X Meta",
+                "barra": [
+                    {
+                        "value": 100,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 140,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 120,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ],
+                "linha": [
+                    {
+                        "value": 135,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 95,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 245,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 125,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ]
+            },
+            "tabela": {
+                "titulos": [
+                    "Operador",
+                    "Produção"
+                ],
+                "dados": [
+                    {
+                        "value": 4735,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 3467,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 2654,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 2324,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 2187,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 2055,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 1756,
+                        "name": "Operador G"
+                    }
+                ]
+            },
+            "totalizadores": [
+                {
+                    "label": "Produzido (und.)",
+                    "value": 1235,
+                    "unidade": "inteiro"
+                },
+                {
+                    "label": "Produzido (R$)",
+                    "value": 15000.00,
+                    "unidade": "monetario"
+                },
+                {
+                    "label": "Eficiência (%)",
+                    "value": 90,
+                    "unidade": "percent"
+                }
+            ]
+        },
+        {
+            "titulo": "Furação de Flauta",
+            "graficos": {
+                "titulo": "Produção X Meta 2",
+                "barra": [
+                    {
+                        "value": 100,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 140,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 120,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ],
+                "linha": [
+                    {
+                        "value": 135,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 95,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 245,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 125,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ]
+            },
+            "tabela": {
+                "titulos": [
+                    "Operador",
+                    "Produção"
+                ],
+                "dados": [
+                    {
+                        "value": 4735,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 3467,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 2654,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 2324,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 2187,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 2055,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 1756,
+                        "name": "Operador G"
+                    }
+                ]
+            },
+            "totalizadores": [
+                {
+                    "label": "Produzido (und.)",
+                    "value": 1235,
+                    "unidade": "inteiro"
+                },
+                {
+                    "label": "Produzido (R$)",
+                    "value": 15000.00,
+                    "unidade": "monetario"
+                },
+                {
+                    "label": "Eficiência (%)",
+                    "value": 90,
+                    "unidade": "percent"
+                }
+            ]
+        },
+        {
+            "titulo": "Preparação de Perna",
+            "graficos": {
+                "titulo": "Produção X Meta 3",
+                "barra": [
+                    {
+                        "value": 100,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 140,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 120,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ],
+                "linha": [
+                    {
+                        "value": 135,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 95,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 245,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 125,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ]
+            },
+            "tabela": {
+                "titulos": [
+                    "Operador",
+                    "Produção"
+                ],
+                "dados": [
+                    {
+                        "value": 4735,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 3467,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 2654,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 2324,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 2187,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 2055,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 1756,
+                        "name": "Operador G"
+                    }
+                ]
+            },
+            "totalizadores": [
+                {
+                    "label": "Produzido (und.)",
+                    "value": 1235,
+                    "unidade": "inteiro"
+                },
+                {
+                    "label": "Produzido (R$)",
+                    "value": 15000.00,
+                    "unidade": "monetario"
+                },
+                {
+                    "label": "Eficiência (%)",
+                    "value": 90,
+                    "unidade": "percent"
+                }
+            ]
+        },
+        {
+            "titulo": "Furação de acessórios",
+            "graficos": {
+                "titulo": "Produção X Meta 4",
+                "barra": [
+                    {
+                        "value": 100,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 140,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 120,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ],
+                "linha": [
+                    {
+                        "value": 135,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 95,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 245,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 125,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ]
+            },
+            "tabela": {
+                "titulos": [
+                    "Operador",
+                    "Produção"
+                ],
+                "dados": [
+                    {
+                        "value": 4735,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 3467,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 2654,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 2324,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 2187,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 2055,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 1756,
+                        "name": "Operador G"
+                    }
+                ]
+            },
+            "totalizadores": [
+                {
+                    "label": "Produzido (und.)",
+                    "value": 1235,
+                    "unidade": "inteiro"
+                },
+                {
+                    "label": "Produzido (R$)",
+                    "value": 15000.00,
+                    "unidade": "monetario"
+                },
+                {
+                    "label": "Eficiência (%)",
+                    "value": 90,
+                    "unidade": "percent"
+                }
+            ]
+        },
+        {
+            "titulo": "Pintura de Corpo",
+            "graficos": {
+                "titulo": "Produção X Meta 5",
+                "barra": [
+                    {
+                        "value": 100,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 140,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 120,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ],
+                "linha": [
+                    {
+                        "value": 135,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 95,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 245,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 125,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ]
+            },
+            "tabela": {
+                "titulos": [
+                    "Operador",
+                    "Produção"
+                ],
+                "dados": [
+                    {
+                        "value": 4735,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 3467,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 2654,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 2324,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 2187,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 2055,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 1756,
+                        "name": "Operador G"
+                    }
+                ]
+            },
+            "totalizadores": [
+                {
+                    "label": "Produzido (und.)",
+                    "value": 1235,
+                    "unidade": "inteiro"
+                },
+                {
+                    "label": "Produzido (R$)",
+                    "value": 15000.00,
+                    "unidade": "monetario"
+                },
+                {
+                    "label": "Eficiência (%)",
+                    "value": 90,
+                    "unidade": "percent"
+                }
+            ]
+        },
+        {
+            "titulo": "Carregamento",
+            "graficos": {
+                "titulo": "Produção X Meta 6",
+                "barra": [
+                    {
+                        "value": 100,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 140,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 120,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 130,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 80,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 200,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ],
+                "linha": [
+                    {
+                        "value": 135,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 95,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 245,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": null,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador G"
+                    },
+                    {
+                        "value": 125,
+                        "name": "Operador H"
+                    },
+                    {
+                        "value": 215,
+                        "name": "Operador I"
+                    },
+                    {
+                        "value": 155,
+                        "name": "Operador J"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador K"
+                    },
+                    {
+                        "value": 185,
+                        "name": "Operador L"
+                    }
+                ]
+            },
+            "tabela": {
+                "titulos": [
+                    "Operador",
+                    "Produção"
+                ],
+                "dados": [
+                    {
+                        "value": 4735,
+                        "name": "Operador A"
+                    },
+                    {
+                        "value": 3467,
+                        "name": "Operador B"
+                    },
+                    {
+                        "value": 2654,
+                        "name": "Operador C"
+                    },
+                    {
+                        "value": 2324,
+                        "name": "Operador D"
+                    },
+                    {
+                        "value": 2187,
+                        "name": "Operador E"
+                    },
+                    {
+                        "value": 2055,
+                        "name": "Operador F"
+                    },
+                    {
+                        "value": 1756,
+                        "name": "Operador G"
+                    }
+                ]
+            },
+            "totalizadores": [
+                {
+                    "label": "Produzido (und.)",
+                    "value": 1235,
+                    "unidade": "inteiro"
+                },
+                {
+                    "label": "Produzido (R$)",
+                    "value": 15000.00,
+                    "unidade": "monetario"
+                },
+                {
+                    "label": "Eficiência (%)",
+                    "value": 90,
+                    "unidade": "percent"
+                }
+            ]
+        }
+    ]
+}
