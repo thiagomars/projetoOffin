@@ -1,6 +1,7 @@
 import Box from "../../components/Box";
 import GraficoBarra from "../../components/GraficoBarras";
 import Tabela from "../../components/Table";
+import { converterDecimal, formatarDecimal } from "../../utils/formartar";
 
 export default function GraficoTabelaLayout({ item, cores }) {
     const todosNames = [];
@@ -63,12 +64,14 @@ export default function GraficoTabelaLayout({ item, cores }) {
 
                     <Tabela.Body>
                         {item.tabela.dados?.map((dados, index) => (
-                            <Tabela.Body.BodyLinha key={"item_corpo_tabela_" + index}>
+                            <Tabela.Body.BodyLinha
+                                key={"item_corpo_tabela_" + index}
+                            >
                                 <Tabela.Body.BodyLinha.BodyItem className="text-left">
                                     {dados.name}
                                 </Tabela.Body.BodyLinha.BodyItem>
                                 <Tabela.Body.BodyLinha.BodyItem className="text-right">
-                                    {dados.value}
+                                    {formatarDecimal(dados.value, 0)}
                                 </Tabela.Body.BodyLinha.BodyItem>
                             </Tabela.Body.BodyLinha>
                         ))}

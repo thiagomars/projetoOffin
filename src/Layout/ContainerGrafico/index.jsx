@@ -1,7 +1,7 @@
-import GraficoTabelaLayout from "../../Layout/GraficoTabelaLayout";
+import GraficoTabelaLayout from "../GraficoTabelaLayout";
 import { verificaTipoFormatacao } from "../../utils/formartar";
-import Box from "../Box";
-import Botao from "../Button";
+import Box from "../../components/Box";
+import Botao from "../../components/Button";
 
 export default function ContainerGrafico({ item, index }) {
 

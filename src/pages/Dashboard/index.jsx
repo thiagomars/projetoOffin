@@ -3,7 +3,7 @@ import Totalizador from "../../components/Totalizador";
 import dadosTotalizador from "../../data/totalizador.json";
 import dadosGraficos from "../../data/dados.json";
 import BoxContainer from "../../components/BoxContainer";
-import ContainerGrafico from "../../components/ContainerGrafico";
+import ContainerGrafico from "../../Layout/ContainerGrafico";
 import Botao from "../../components/Button";
 import Formulario from "../../components/Input";
 import { useForm } from "react-hook-form";
@@ -44,12 +44,12 @@ export default function Dashboard() {
                         />
                         <Botao
                             texto="Produto"
-                            tipo="impressao"
+                            tipo="padrao"
                             onClick={() => {}}
                         />
                         <Botao
                             texto="Data"
-                            tipo="impressao"
+                            tipo="padrao"
                             onClick={() => {}}
                         />
                     </div>
